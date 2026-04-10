@@ -6,5 +6,6 @@
   <Project Path="../../5/5/5.csproj" Id="287ee805-b6bc-4dd6-8e7f-5644b095579a" />
   <Project Path="../../6/6/6.csproj" Id="7a5a7822-e55e-449c-b15b-1e8f31923bd6" />
   <Project Path="../../7/ConsoleApp2/ConsoleApp2.csproj" Id="6e6c982c-5c83-494f-99bb-c24fe28d8d1a" />
+  <Project Path="../../8/8/8.csproj" Id="563ea3e5-187c-403c-b90e-ad0aaa84d57a" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
 </Solution>
