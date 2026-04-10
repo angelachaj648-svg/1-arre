@@ -3,5 +3,6 @@
   <Project Path="../../3/3 ej/3 ej.csproj" Id="af02a508-6280-4f3d-b2e4-c00c22c487b4" />
   <Project Path="../../3/3/3.csproj" Id="22c2ef0b-6245-4026-a832-93234c2dc44b" />
   <Project Path="../../4/4/4.csproj" Id="eac489cb-64ff-434d-8656-7625dca36637" />
+  <Project Path="../../5/5/5.csproj" Id="287ee805-b6bc-4dd6-8e7f-5644b095579a" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
 </Solution>
